@@ -7,16 +7,6 @@ show_sidebar: false
 hide_footer: true
 ---
 
-Información del grupo
-
-Integrantes
-
-## 2020
-
-Congresos
-
-Actividades
-
 ## Programa de Transferencia de Resultados de Investigación y Comunicación Pública de la Ciencia (PROTRI)
 
 ### Toxicología Genética y Salud Ambiental
@@ -28,6 +18,8 @@ La __Toxicología Genética__ tiene un campo de acción amplio tanto para la inv
 estilo de vida o de las diferentes actividades laborales, alteran actualmente la salud de las personas, perturbando en última instancia (y de diversas maneras) la transmisión de la información genética en las células somáticas de un organismo o de padres a hijos cuando se forman las gametas, y ocasionando así los más diversos problemas de salud. Este libro pretende poner a disposición de los lectores del área de la salud y demás interesados en esta problemática, los conceptos teóricos necesarios para comprender mecanismos básicos de toxicología, mutagénesis y genotoxicidad, su relación con trastornos de la reproducción, mecanismos de reparación del ADN, mecanismos epigenéticos y su relación con enfermedades como el cáncer, además de poner en su conocimiento los diferentes ensayos desarrollados para la evaluación genotóxica ambiental, monitoreo de poblaciones humanas expuestas y sus contribuciones a la Salud Ambiental.
 _Delia Aiassa y Beatriz Bosch_
 
+![enlace en línea](/img/libro-toxicologia.png)
+
 El libro consta de 6 capítulos y se puede descargar del siguiente link: <a href="/tequieroverde/archivos/2015-Toxicologia.pdf">Toxicología Genética y Salud Ambiental </a>
 - __Capítulo 1__. TOXICOLOGÍA. METAS Y ALCANCES – Dr. Fernando Mañas
 - __Capítulo 2__. ÁCIDO DESOXIRRIBONUCLEICO – Lic. Natalí Bernardi
@@ -36,6 +28,8 @@ El libro consta de 6 capítulos y se puede descargar del siguiente link: <a href
 - __Capítulo 5__. ENSAYOS DE CORTO PLAZO PARA LA DETECCIÓN DE AGENTES GENOTÓXICOS – Lic. Beatriz Bosch
 - __Capítulo 6__. MONITOREO GENOTOXICOLÓGICO HUMANO Y AMBIENTAL – Dra. Delia Aiassa
 
+---
+---
 
 ### TÓXICOS EN EL AMBIENTE ¿RIESGO PARA LA SALUD?
 

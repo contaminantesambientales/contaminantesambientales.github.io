@@ -1,8 +1,10 @@
 ---
-layout: page-sin-post
-title: Datos del mapa
-permalink: /georef/
+layout: page
+title: Fuente de Datos del mapa
+permalink: /datos/
 hide_hero: true
+show_sidebar: false
+hide_footer: true
 ---
 
 ### 1) Atrazina en Agua de la Canilla
@@ -11,20 +13,13 @@ María Juana, Santa Fé: A través de la Agrupación <a href="https://www.facebo
 
 _Como es de público conocimiento, en el mes de marzo vendrán científicos del CONICET y de la Universidad Nacional de La Plata para realizar estudios de aire, agua y suelo de la localidad de María Juana, para detectar si estamos expuestos o no, como habitantes de esta localidad, a sustancias que nos afectan la salud como los agroquímicos._"
 
-<img width="400" src="img/atrazinajpg"/>
+![enlace en línea](/img/atrazina.jpg)
+
 imágen del resultado del análisis de la muestra de agua
 
 ### 2) Glifosato y AMPA en agua de lluvia
 Un estudio Realizado por el equipo del Dr. Marino de la UNLP encontró distintas concentraciones de Glifosato y su metabolito (AMPA) en distintas provincias de la región Pampeana
 - Santa Fé: compuesto por Brinkmann, Córdoba y Hersilia, Santa Fé: (resultados santa fe)
-- Entre Rios: Urdinarrain 
+- Entre Rios: Urdinarrain
 - Buenos Aires: compuesto por La Plata y Coronel Suarez
 - Córdoba: compuesto por Malvinas Argentinas, Barrio Ituzaingó Anexo y Marcos Juarez
-
-
-
-
-
-latitud|longitud|lugar|fecha|dirección|cant|especies colocadas|imagenes|
--------|---------|----|-----|---------|----|------------------|--------|
--33.097377|-64.300214|Predio Pablo Aimar A.A.E|Septiembre 2019|Iguazú|27|-Arca (Parasenegallia visco) -Aguaribay (Schinus areira)|respeto.org.ar/tequieroverde/img/AAE.jpg

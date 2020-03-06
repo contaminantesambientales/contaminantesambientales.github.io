@@ -1,7 +1,7 @@
 - name: Mapa
   link: /mapa.html
 - name: Datos
-  link: /georef/
+  link: /datos/
 - name: GeMA
   link: /gema/
 - name: Presentaciones
@@ -15,7 +15,4 @@
         link: /plaguicidas/
       - name: Arsénico
         link: /arsenico/
-      - name: Metales Pesados
-        link: /metales/
-      - name: otro
-        link: /otro/
+      
