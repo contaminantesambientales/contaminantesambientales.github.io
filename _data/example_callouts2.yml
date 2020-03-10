@@ -3,7 +3,7 @@ height: is-medium
 items:
   - title: GeMA
     subtitle: Grupo de Genética y Mutagénesis Ambiental
-    icon: fas-fa-camera
+    icon: fab fa-github
     description: >
       Integrantes, Actividades, Congresos, Material de divulgación generado por el grupo
     call_to_action_name: GeMA
@@ -11,7 +11,7 @@ items:
 
   - title: Mapa de los contaminantes ambientales
     subtitle: Region Pampeana
-    icon: fas-fa-atom
+    icon: fab fa-github
     description: >
       Mapa con los residuos de plaguicidas encontrados en suelo, agua, aire, alimentos y el daño genético de las poblaciones estudiadas por el grupo
     call_to_action_name: Mapa
@@ -19,7 +19,7 @@ items:
 
   - title: Fuente de Datos
     subtitle: Información ampliada del Mapa de los Contaminantes Ambientales
-    icon: fas-fa-bus
+    icon: fab fa-github
     description: >
       Publicaciones y noticias de los lugares donde se encontraron contaminantes ambientales y daño genético
     call_to_action_name: datos

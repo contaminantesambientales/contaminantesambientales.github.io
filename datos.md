@@ -4,7 +4,6 @@ title: Fuente de Datos del mapa
 permalink: /datos/
 hide_hero: true
 show_sidebar: false
-hide_footer: true
 ---
 
 ### 1) Atrazina en Agua de la Canilla
