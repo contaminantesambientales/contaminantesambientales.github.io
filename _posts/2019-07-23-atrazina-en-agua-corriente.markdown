@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "Atrazina en agua corriente"
-hero_height: is-large
 date:   2019-07-23
 description: "encontraron atrazina en agua corriente"
 image: /img/atrazina.jpg
-hero_height: is-large
 published: true
 ---
 
@@ -15,4 +13,8 @@ Un estudio realizado por científicos de la Faculta de Ingeniería Quimica de la
 
 [Publicación agrupación Pueblo Vivo](https://www.facebook.com/permalink.php?story_fbid=187776142590528&id=105321714169305&__tn__=K-R)
 
-![nota de radio](http://www.radiomariajuana.com/wp-content/uploads/2020/02/2020-02-07-Pueblo-Vivo-Atrazina-en-agua.mp3)
+Nota de radio
+<audio controls>
+<source src="http://www.radiomariajuana.com/wp-content/uploads/2020/02/2020-02-07-Pueblo-Vivo-Atrazina-en-agua.mp3">
+Tu navegador no permite reproducir este audio.
+</audio>
