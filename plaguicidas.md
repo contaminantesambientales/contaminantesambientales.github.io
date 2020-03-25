@@ -70,11 +70,66 @@ Numero|Principio Activo|Tipo|Motivo PAP|
 58   | [Fosfuro de aluminio](/archivos/plaguicidas/Fosfuro-de-aluminio.pdf)         |  insecticida, acaricida, gorgojicida, rodenticida       |    Mortal si se inhala,  Muy Tóxico para las Abejas       
 59   |  [Fosfuro de Magnesio](http://www.plaguicidasdecentroamerica.una.ac.cr/index.php/base-de-datos-menu/298-fosfuro-de-magnesio)       |    insecticida, rodenticida     |   Mortal si se inhala  
 60   |  [Fosmet](/archivos/plaguicidas/fosmet.pdf)        | acaricida, insecticida         |     Muy Tóxico para las Abejas
-61   |         |         |     
-62   |         |         |     
-63   |         |         |     
-64   |         |         |     
-65   |         |         |     
-66   |         |         |     
-67   |         |         |     
-68   |         |         |                        
+61   |  [Fosthiazate](/archivos/plaguicidas/fosthiazate.pdf)       |   nematicida      |    Muy Tóxico para las Abejas
+62   |  [Gamma Cialotrina](/archivos/plaguicidas/Gamma-Cialotrina.pdf)       |  insecticida       | Muy Tóxico para las Abejas     
+63   |  [Glifosato](/archivos/plaguicidas/glifosato.pdf)       |   herbicida      |    IARC probable cancerígeno
+64   |  [glufosinato de amonio](/archivos/plaguicidas/glufosinato-de-amonio.pdf)       |   herbicida      |   U.E Tóxico para la reproducción (C. 1)   
+65   |  [Haloxifop R metil](/archivos/plaguicidas/Haloxifop-R-metil.pdf)      |   herbicida      |  EPA probable cancerígeno (C. 2)   
+66   |  [Hexitiazox](/archivos/plaguicidas/Hexitiazox.pdf)      |   acaricida      |   EPA probable cancerígeno (C. 2)   
+67   |  [Imazalil](/archivos/plaguicidas/Imazalil.pdf)       |  fungicida       |   EPA probable cancerígeno (C. 2)    
+68   |  [Imidacloprid](/archivos/plaguicidas/Imidacloprid.pdf)       |   insecticida      |  Muy Tóxico para las Abejas     
+69   |  [Indoxacarb](/archivos/plaguicidas/Indoxacarb.pdf)        |     insecticida    |  Muy Tóxico para las Abejas                        
+70   |  [Ioxinil](/archivos/plaguicidas/Ioxinil.pdf)       |    herbicida     |  U.E. Disruptor Endócrino (C. 1) o cancerígeno (C. 2)                    
+71   |  [Iprodione](/archivos/plaguicidas/Iprodione.pdf)        |  fungicida, curasemillas       |  EPA probable cancerígeno (C. 2)                      
+72   |  [Iprovalicarb](/archivos/plaguicidas/Iprovalicarb.pdf)       |   fungicida      |   EPA probable cancerígeno (C. 2)                      
+73   |  [Isopyrazam](/archivos/plaguicidas/Isopyrazam.pdf)      |    fungicida     |    EPA probable cancerígeno (C. 2),  Muy persistente en suelo, agua o aire, Muy Tóxico para organismos Acuáticos                     
+74   |  [Isoxaflutole](/archivos/plaguicidas/Isoxaflutole.pdf)       |  herbicida       | EPA probable cancerígeno (C. 2)                       
+75   |  [Kresoxim-metil](/archivos/plaguicidas/Kresoxim-metil.pdf)       |  fungicida       | EPA probable cancerígeno (C. 2)                       
+76   |  [Lambdacialotrina](/archivos/plaguicidas/Lambdacialotrina.pdf)       | insecticida        | Mortal si se inhala , U.E. Disruptor Endócrino (C. 1) o cancerígeno (C. 2), Muy Tóxico para las Abejas                        
+77   |   [Linurón](/archivos/plaguicidas/linuron.pdf)      |   herbicida      | U.E Tóxico para la reproducción (C. 1), U.E. Disruptor Endócrino (C. 1) o cancerígeno (C. 2)                 
+78   |  [Lufenurón](/archivos/plaguicidas/Lufenuron.pdf)        |  insecticida       |  Muy Bioacumulable, Muy persistente en suelo, agua o aire, Muy Tóxico para organismos Acuáticos                     
+79   |   [Malation](http://www.plaguicidasdecentroamerica.una.ac.cr/index.php/base-de-datosmenu/358-malation)      |  insecticida, acaricida       |  IARC probable cancerígeno, Muy Tóxico para las Abejas                     
+80   |  [Mancozeb](/archivos/plaguicidas/Mancozeb.pdf)        |   fungicida      | U.E. Disruptor Endócrino (C. 1) o cancerígeno (C. 2), EPA probable cancerígeno (C. 2)                    
+81   |   [Metaflumizone](/archivos/plaguicidas/Metaflumizone.pdf)      |  insecticida       |   Muy Tóxico para las Abejas                       
+82   |   [Metam Potasio](http://www.plaguicidasdecentroamerica.una.ac.cr/index.php/base-de-datos-menu/377-metam-potasio)      |    fungicida, herbicida, nematicida, insecticida     |    EPA probable cancerígeno (C. 2)                                        
+83   |   [Metam Sodio](/archivos/plaguicidas/metam-sodio.pdf)      |  fungicida, herbicida, nematicida       | EPA probable cancerígeno (C. 2),  U.E. Disruptor Endócrino (C. 1) o cancerígeno (C. 2)                          
+84   |   [Metidation](/archivos/plaguicidas/Metidation.pdf)      |  insecticida       |   OMS Clase IB, Muy Tóxico para las Abejas                   
+85   |   [Metiocarb](/archivos/plaguicidas/Metiocarb.pdf)      |  insecticida, curasemillas       |  OMS Clase IB, Muy Tóxico para las Abejas                       
+86   |   [Metiram](/archivos/plaguicidas/Metiram.pdf)      |    fungicida     |  U.E. Disruptor Endócrino (C. 1) o cancerígeno (C. 2), EPA probable cancerígeno (C. 2)                      
+87   |   [Metomil](/archivos/plaguicidas/Metomil.pdf)      |  insecticida       |  OMS Clase IB, Muy Tóxico para las Abejas
+88   |   [Metribuzin](/archivos/plaguicidas/Metribuzin.pdf)      |   herbicida      |  U.E. Disruptor Endócrino (C. 1) o cancerígeno (C. 2)        
+89   |   [Oxifluorfen](/archivos/plaguicidas/Oxifluorfen.pdf)      |  herbicida       |  EPA probable cancerígeno (C. 2)            
+90   |   [Paraquat Dicloruro](/archivos/plaguicidas/Paraquat-Dicloruro.pdf)     |  herbicida       |  Mortal si se inhala, Presente en el Protocolo de Rotterdam         
+91   |  [Pendimetalin](/archivos/plaguicidas/Pendimetalin.pdf)        |    herbicida     |   Muy Bioacumulable, Muy persistente en suelo, agua o aire         
+92   |  [Permetrina](/archivos/plaguicidas/Permetrina.pdf)        |   insecticida      |   EPA probable cancerígeno (C. 2), Muy Tóxico para las Abejas                 
+93   |  [Picloram](/archivos/plaguicidas/Picloram.pdf)       |    herbicida     |  U.E. Disruptor Endócrino (C. 1) o cancerígeno (C. 2)        
+94   |  [Piraflufen etil](/archivos/plaguicidas/Piraflufen-etil.pdf)      |  herbicida      |   EPA probable cancerígeno (C. 2)        
+95   |    [Piridaben](http://www.plaguicidasdecentroamerica.una.ac.cr/index.php/base-de-datos-menu/456-piridaben)     |  insecticida       |  Muy Tóxico para las Abejas                          
+96   | [Pirimicarb](/archivos/plaguicidas/Pirimicarb.pdf)        |   insecticida      |  EPA probable cancerígeno (C. 2), Muy persistente en suelo, agua o aire, Muy Tóxico para organismos Acuáticos        
+97   |  [Pirimifos-metil](/archivos/plaguicidas/Pirimifos-metil.pdf)       |   acaricida, insecticida, gogojicida      |   Muy Tóxico para las Abejas                                 
+98   |  [Procimidone](/archivos/plaguicidas/Procimidone.pdf)         |    fungicida     |   EPA probable cancerígeno (C. 2), U.E. Disruptor Endócrino (C. 1) o cancerígeno (C. 2)   
+99   |  [Profenofos](/archivos/plaguicidas/Profenofos.pdf)       |   insecticida      |   Muy Tóxico para las Abejas       
+100   |  [Profoxidim](/archivos/plaguicidas/Profoxidim.pdf)       |   herbicida      |  U.E. Disruptor Endócrino (C. 1) o cancerígeno (C. 2)     
+101   |  [Propargite](/archivos/plaguicidas/Propargite.pdf)       |   acaricida      |   EPA probable cancerígeno (C. 2), Muy Bioacumulable, Muy Tóxico para organismos Acuáticos           
+102   | [Pymetrozine](/archivos/plaguicidas/Pymetrozine.pdf)        |  insecticida       |   EPA probable cancerígeno (C. 2)
+103   |  [Quinoxyfen](/archivos/plaguicidas/quinoxyfen.pdf)       |   fungicida      |   Muy Bioacumulable, Muy Tóxico para organismos Acuáticos           
+104   | [Quizalofop-p-tefuril](/archivos/plaguicidas/Quizalofop-p-tefuril.pdf)        |  herbicida       | U.E Tóxico para la reproducción (C. 1)  
+105   |  [Sedaxane](/archivos/plaguicidas/Sedaxane.pdf)        |   fungicida      |   EPA probable cancerígeno (C. 2)
+106   |  [Spinetoram](/archivos/plaguicidas/Spinetoram.pdf)        |  insecticida       |   Muy Tóxico para las Abejas   
+107   |   [Spinosad](/archivos/plaguicidas/Spinosad.pdf)      |  insecticida       |    Muy Tóxico para las Abejas   
+108   |  [Spirodiclofén](/archivos/plaguicidas/Spirodiclofen.pdf)   |   acaricida      | EPA probable cancerígeno (C. 2)  
+109   |  [Sulfluramida](/archivos/plaguicidas/Sulfluramida.pdf)       |   insecticida      |  Presente en el Protocolo de Rotterdam          
+110   |  [Sulfoxaflor](/archivos/plaguicidas/Sulfoxaflor.pdf)       |    insecticida     |  Muy Tóxico para las Abejas  
+111   |  [TCMTB](http://www.plaguicidasdecentroamerica.una.ac.cr/index.php/base-de-datos-menu/512-tcmtb)       | fungicida       |    Mortal si se inhala
+112   |  [Teflutrina](/archivos/plaguicidas/Teflutrina.pdf)       |  curasemillas, insecticida       |  OMS Clase IB,  Mortal si se inhala, Muy Tóxico para las Abejas
+113   |  [Terbutrina](/archivos/plaguicidas/Terbutrina.pdf)        |    herbicida     |  U.E. Disruptor Endócrino (C. 1) o cancerígeno (C. 2)  
+114   |   [Tetraconazole](/archivos/plaguicidas/Tetraconazole.pdf)      |   fungicida      |  EPA probable cancerígeno (C. 2)  
+115   |  [Tiacloprid](/archivos/plaguicidas/Tiacloprid.pdf)         |    insecticida     |   EPA probable cancerígeno (C. 2), U.E Tóxico para la reproducción (C. 1)
+116   |  [Tiametoxam](/archivos/plaguicidas/Tiametoxam.pdf)       |    insecticida     |   Muy Tóxico para las Abejas
+117   |  [Tiram](/archivos/plaguicidas/Tiram.pdf)        |   fungicida      |  U.E. Disruptor Endócrino (C. 1) o cancerígeno (C. 2), Presente en el Protocolo de Rotterdam  
+118   |  [Tiodicarb](/archivos/plaguicidas/Tiodicarb.pdf)        |  curasemillas, insecticida       |   EPA probable cancerígeno (C. 2), Muy Tóxico para las Abejas
+119   | [Triadimenol](http://www.plaguicidasdecentroamerica.una.ac.cr/index.php/base-de-datos-menu/549-triadimenol)        |   fungicida      |   U.E Tóxico para la reproducción (C. 1)
+120   | [Trifluralina](/archivos/plaguicidas/Trifluralina.pdf)        |   herbicida      |   U.E. Disruptor Endócrino (C. 1) o cancerígeno (C. 2), Muy Bioacumulable
+121   |  [Zeta- Cipermetrina](http://www.plaguicidasdecentroamerica.una.ac.cr/index.php/base-de-datos-menu/126-cipermetrina-zeta)        |  OMS Clase IB, Muy Tóxico para las Abejas  insecticida       |     
+122   | [Zineb](/archivos/plaguicidas/zineb.pdf)          |   fungicida      | U.E. Disruptor Endócrino (C. 1) o cancerígeno (C. 2)    
+123   | [Ziram](/archivos/plaguicidas/ziram.pdf)          |    fungicida     |    Mortal si se inhala                                
