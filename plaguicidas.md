@@ -130,6 +130,6 @@ Numero|Principio Activo|Tipo|Motivo PAP|
 118   |  [Tiodicarb](/archivos/plaguicidas/Tiodicarb.pdf)        |  curasemillas, insecticida       |   EPA probable cancerígeno (C. 2), Muy Tóxico para las Abejas
 119   | [Triadimenol](http://www.plaguicidasdecentroamerica.una.ac.cr/index.php/base-de-datos-menu/549-triadimenol)        |   fungicida      |   U.E Tóxico para la reproducción (C. 1)
 120   | [Trifluralina](/archivos/plaguicidas/Trifluralina.pdf)        |   herbicida      |   U.E. Disruptor Endócrino (C. 1) o cancerígeno (C. 2), Muy Bioacumulable
-121   |  [Zeta- Cipermetrina](http://www.plaguicidasdecentroamerica.una.ac.cr/index.php/base-de-datos-menu/126-cipermetrina-zeta)        |  OMS Clase IB, Muy Tóxico para las Abejas  insecticida       |     
+121   |  [Zeta- Cipermetrina](http://www.plaguicidasdecentroamerica.una.ac.cr/index.php/base-de-datos-menu/126-cipermetrina-zeta)        |   insecticida      |   OMS Clase IB, Muy Tóxico para las Abejas  insecticida  
 122   | [Zineb](/archivos/plaguicidas/zineb.pdf)          |   fungicida      | U.E. Disruptor Endócrino (C. 1) o cancerígeno (C. 2)    
 123   | [Ziram](/archivos/plaguicidas/ziram.pdf)          |    fungicida     |    Mortal si se inhala                                
