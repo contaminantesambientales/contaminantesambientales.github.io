@@ -1,5 +1,7 @@
 - name: Mapa
   link: /mapa.html
+- name: Mapa_encode
+  link: /mapa2.html
 - name: Datos
   link: /datos/
 - name: GeMA
@@ -15,4 +17,3 @@
         link: /plaguicidas/
       - name: Arsénico
         link: /arsenico/
-      
