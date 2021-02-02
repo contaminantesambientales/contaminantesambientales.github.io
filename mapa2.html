@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_3e5845530a064661a1cf693ffbd97a58 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+
+            <div class="folium-map" id="map_3e5845530a064661a1cf693ffbd97a58" ></div>
+
+</body>
+<script>
+
+            var map_3e5845530a064661a1cf693ffbd97a58 = L.map(
+                "map_3e5845530a064661a1cf693ffbd97a58",
+                {
+                    center: [-33.1205, -64.334],
+                    crs: L.CRS.EPSG3857,
+                    zoom: "6",
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+
+
+
+
+            var tile_layer_0b9acc08b2184197a6f1b849caf4eb9e = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_3e5845530a064661a1cf693ffbd97a58);
+
+
+            var feature_group_43ab7884c7d74d8a945d5da8a8c914a2 = L.featureGroup(
+                {}
+            ).addTo(map_3e5845530a064661a1cf693ffbd97a58);
+
+
+            var marker_cluster_bd7cd1c3ea8048d58c152b3d65f016db = L.markerClusterGroup(
+                {}
+            );
+            feature_group_43ab7884c7d74d8a945d5da8a8c914a2.addLayer(marker_cluster_bd7cd1c3ea8048d58c152b3d65f016db);
+
+
+            var marker_a37a505f70ed4378aea2b1e6ce205222 = L.marker(
+                [-31.409720, -64.194350],
+                {}
+            ).addTo(marker_cluster_bd7cd1c3ea8048d58c152b3d65f016db);
+        var popup_c8e32c669ce344bcaec5c6f46cab3443 = L.popup({"maxWidth": "100%"});
+            var html_831321ee89f34eae87f6b6804ef327d0 = $(`<div id="html_831321ee89f34eae87f6b6804ef327d0" style="width: 100.0%; height: 100.0%;"> Plantación Parque Sarmiento: <a href="https://www.lavoz.com.ar/ciudadanos/se-plantaron-150-arboles-en-el-parque-sarmiento">  nota la voz del interior </a> </div>`)[0];
+            popup_c8e32c669ce344bcaec5c6f46cab3443.setContent(html_831321ee89f34eae87f6b6804ef327d0);
+        marker_a37a505f70ed4378aea2b1e6ce205222.bindPopup(popup_c8e32c669ce344bcaec5c6f46cab3443)
+        ;
+
+
+
+
+            var marker_6c8a56467f3b4aec92215dbed3e5e231 = L.marker(
+                [-31.374886,  -64.179836],
+                {}
+            ).addTo(marker_cluster_bd7cd1c3ea8048d58c152b3d65f016db);
+        var popup_fd19c4cf580c4eb389fe85b9f6e4ac88 = L.popup({"maxWidth": "100%"});
+            var html_43671d1b1b6940239e3d006286e95d27 = $(`<div id="html_43671d1b1b6940239e3d006286e95d27" style="width: 100.0%; height: 100.0%;"> Plantacion X: <a href="https://rearural.github.io/salud/archivos/glifo-lluvia-traducido.pdf">  link a imagenes </a> </div>`)[0];
+            popup_fd19c4cf580c4eb389fe85b9f6e4ac88.setContent(html_43671d1b1b6940239e3d006286e95d27);
+        marker_6c8a56467f3b4aec92215dbed3e5e231.bindPopup(popup_fd19c4cf580c4eb389fe85b9f6e4ac88)
+        ;
+
+
+
+
+</script>
